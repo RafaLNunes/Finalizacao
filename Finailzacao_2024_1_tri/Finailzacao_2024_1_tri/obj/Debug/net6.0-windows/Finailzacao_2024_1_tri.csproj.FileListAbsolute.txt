@@ -1,0 +1,17 @@
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\bin\Debug\net6.0-windows\Finailzacao_2024_1_tri.exe
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\bin\Debug\net6.0-windows\Finailzacao_2024_1_tri.deps.json
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\bin\Debug\net6.0-windows\Finailzacao_2024_1_tri.runtimeconfig.json
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\bin\Debug\net6.0-windows\Finailzacao_2024_1_tri.dll
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\bin\Debug\net6.0-windows\Finailzacao_2024_1_tri.pdb
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.Form1.resources
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.csproj.GenerateResource.cache
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.AssemblyInfoInputs.cache
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.AssemblyInfo.cs
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.csproj.CoreCompileInputs.cache
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.dll
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\refint\Finailzacao_2024_1_tri.dll
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.pdb
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.genruntimeconfig.cache
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\ref\Finailzacao_2024_1_tri.dll
+C:\Users\rafin\OneDrive\Documents\GitHub\Finalizacao\Finailzacao_2024_1_tri\Finailzacao_2024_1_tri\obj\Debug\net6.0-windows\Finailzacao_2024_1_tri.Properties.Resources.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Finailzacao_2024_1_tri/1.0.0": {
+        "runtime": {
+          "Finailzacao_2024_1_tri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Finailzacao_2024_1_tri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
