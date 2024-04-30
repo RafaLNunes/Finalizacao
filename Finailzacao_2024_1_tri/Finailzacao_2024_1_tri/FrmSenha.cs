@@ -45,13 +45,13 @@ namespace Finailzacao_2024_1_tri
             switch(indexsenha)
             {
                 case 1:
-                    senhaReal = "";
+                    senhaReal = "" + "" + "" + "" + "";
                     break;
                 case 2:
-                    senhaReal = "";
+                    senhaReal = "" + "" + "" + "" + "";
                     break;
                 case 3:
-                    senhaReal = "";
+                    senhaReal = "" + "" + "" + "" + "";
                     break;
             }
         }
